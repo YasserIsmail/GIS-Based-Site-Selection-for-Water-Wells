@@ -74,7 +74,7 @@ Suitability = (0.7 * Dist_A) + (0.05 * Dist_B) + (0.02 * Dist_C)
 
 Using the **Locate Regions Tool** to extract the **top 3 most suitable well locations**:
 
-!\[Best 3 Water Wells]\(images/Best 3 Wells.jpg)
+!\[Best 3 Water Wells]\(images/Best3Wells.jpg)
 
 ---
 
