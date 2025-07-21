@@ -66,7 +66,7 @@ Suitability = (0.7 * Dist_A) + (0.05 * Dist_B) + (0.02 * Dist_C)
 ````
 
 * Combined raster output for suitability:
-  !\[Suitability Map]\(images/Suitability Analysis.jpg)
+  ![Suitability Map](images/Suitability Analysis.jpg)
 
 ---
 
